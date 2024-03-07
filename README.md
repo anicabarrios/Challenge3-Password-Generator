@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
- <a href = "https://anicabarrios.github.io/Challenge3-Password-Generator/">Live link</a>
+ <a href = "https://anicabarrios.github.io/Password-Generator/">Live link</a>
 
  ![alt text](assets/images/screenshot.png)
 
